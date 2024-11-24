@@ -31,7 +31,7 @@ export default function Quiz() {
       <>
         <div className="quiz-completed">
           <h1>muuhahaha</h1>
-          <img id="wtf" src="src/assets/giphy.gif" />
+          <img id="wtf" src="./src/assets/giphy.gif" />
         </div>
       </>
     );
