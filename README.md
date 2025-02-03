@@ -1,4 +1,4 @@
-### This project is not completed. I started it to practice the React fundamentals aswell as the syntax. Don't intend to finish it as I am working on other meaningful projects.
+### This project is not completed. I started it to practice the React fundamentals aswell as the syntax. Don't intend to finish it as I am working on other projects.
 
 ------------
 
